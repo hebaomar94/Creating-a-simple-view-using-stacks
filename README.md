@@ -39,3 +39,6 @@ In this task, you will add another VStack, this time within your newly created H
 
 Step 1: Add a VStack within your HStack. Ensure that it is properly spaced and displays the following string: Tomato Tortellini, Bottarga and Carbonara. The text should be multi-lined. 
 
+
+
+![image](https://github.com/hebaomar94/Creating-a-simple-view-using-stacks/assets/97067717/cf7fb8b6-20b7-45a9-99a9-2d6499eb9dd2)
